@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 6
   speed: 2
-  wave: 1
+  wave: 0
